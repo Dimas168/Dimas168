@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dimas-adi-putro-b36589388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimas adi saputra" height="30" width="40" /></a>
-<a href="https://fb.com/dimas adi scania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimas adi scania" height="30" width="40" /></a>
+<a href="https://fb.com/dimas jetbus AP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimas jetbus AP" height="30" width="40" /></a>
 <a href="https://instagram.com/mas_dim.ads29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mas_dim.ads29" height="30" width="40" /></a>
 </p>
 
